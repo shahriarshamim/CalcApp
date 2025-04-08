@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{643DD664-6142-44EC-9363-7ED75165355A}|CalcApp\\CalcApp.csproj|solutionrelative:calcapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{643DD664-6142-44EC-9363-7ED75165355A}|CalcApp\\CalcApp.csproj|h:\\ostad_asp.net\\assignment on week 3\\exam\\calcapp\\calcapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{643DD664-6142-44EC-9363-7ED75165355A}|CalcApp\\CalcApp.csproj|H:\\Ostad_Asp.Net\\Assignment on Week 3\\EXAM\\CalcApp\\calcapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{643DD664-6142-44EC-9363-7ED75165355A}|CalcApp\\CalcApp.csproj|solutionrelative:calcapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "CalcApp\\Form1.cs",
               "ToolTip": "H:\\Ostad_Asp.Net\\Assignment on Week 3\\EXAM\\CalcApp\\CalcApp\\Form1.cs",
               "RelativeToolTip": "CalcApp\\Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T06:49:48.099Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "H:\\Ostad_Asp.Net\\Assignment on Week 3\\EXAM\\CalcApp\\CalcApp\\Form1.cs [Design]",
               "RelativeToolTip": "CalcApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T06:49:30.451Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-16T06:49:30.451Z"
             }
           ]
         }
